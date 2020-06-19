@@ -10,4 +10,5 @@ It is a 3x3 grid based User Vs AI game which is also known as Knots and Crosses.
 
 > `python Tic_Tac_Toe.py`
 
-**Note :** For more details of Tic-Tac-Toe game using minimax search algorithm, go through [Medum Article](https://medium.com/@devashi882/tic-tac-toe-ai-vs-user-1a2903621737).
+**Note :** For more details of Tic-Tac-Toe game using minimax search algorithm, go through [Tic-Tac-Toe : AI Vs User
+](https://medium.com/@devashi882/tic-tac-toe-ai-vs-user-1a2903621737).
