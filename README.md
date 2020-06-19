@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-It is a 3x3 grid based User Vs AI game which is also known as Knots and Crosses. The purpose of this project is apply minimax search algorithm. Also, the first action should be performed by the user.  
+It is a 3x3 grid based User Vs AI game which is also known as Noughts and Crosses. The purpose of this project is apply minimax search algorithm. Also, the first action should be performed by the user.  
 
 # How to execute code:
 
