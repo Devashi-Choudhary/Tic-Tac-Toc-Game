@@ -12,3 +12,7 @@ It is a 3x3 grid based User Vs AI game which is also known as Noughts and Crosse
 
 **Note :** For more details of Tic-Tac-Toe game using minimax search algorithm, go through [Tic-Tac-Toe : AI Vs User
 ](https://medium.com/@devashi882/tic-tac-toe-ai-vs-user-1a2903621737).
+
+# References 
+
+The project is done as a part of college assignment.
